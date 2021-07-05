@@ -1,0 +1,6 @@
+branches:
+  only:
+    - main
+build_script:
+  - echo hoge
+
